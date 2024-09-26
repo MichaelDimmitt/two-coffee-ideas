@@ -1,7 +1,7 @@
 # augment-a-coffee-shop
 Built while sitting in a coffee shop
 
-Thinking about making:<br/> 
+Thinking about making:<br/> test
 1) coffeeshop timer website: [link](https://github.com/MichaelDimmitt/augment-a-coffee-shop#:~:text=coffee%20trip%3A%20link-,Coffeeshop%20Timer%3A,-When%20you%20order)
 2) remember your favorite spritzer: [link](https://github.com/MichaelDimmitt/augment-a-coffee-shop#:~:text=Remember%20your%20favorite%20spritzer%20order)
 3) coffeeshop trip: [link](https://github.com/MichaelDimmitt/augment-a-coffee-shop#:~:text=relevant%20coffee%20shop.-,Coffee%20Trip,-has%20progress%20bar)
